@@ -1,1 +1,1 @@
-# CluedIn.Enricher.DuckDuckGo
+# CluedIn.Enricher.Bolagsverket
