@@ -1,13 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="DuckDuckGoExternalSearchProvider.cs" company="Clued In">
-//   Copyright (c) 2018 Clued In. All rights reserved.
-// </copyright>
-// <summary>
-//   Implements the duck go external search provider class.
-// </summary>
-// --------------------------------------------------------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -28,7 +19,6 @@ using EntityType = CluedIn.Core.Data.EntityType;
 
 namespace CluedIn.ExternalSearch.Providers.Bolagsverket
 {
-    /// <summary>A duck go external search provider.</summary>
     /// <seealso cref="T:CluedIn.ExternalSearch.ExternalSearchProviderBase"/>
     public class BolagsverketExternalSearchProvider : ExternalSearchProviderBase, IExtendedEnricherMetadata, IConfigurableExternalSearchProvider
     {

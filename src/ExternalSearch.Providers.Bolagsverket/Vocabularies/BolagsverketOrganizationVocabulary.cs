@@ -1,13 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="DuckDuckGoOrganizationVocabulary.cs" company="Clued In">
-//   Copyright (c) 2018 Clued In. All rights reserved.
-// </copyright>
-// <summary>
-//   Implements the duck go organization vocabulary class.
-// </summary>
-// --------------------------------------------------------------------------------------------------------------------
-
-using CluedIn.Core.Data;
+﻿using CluedIn.Core.Data;
 using CluedIn.Core.Data.Vocabularies;
 
 namespace CluedIn.ExternalSearch.Providers.Bolagsverket.Vocabularies

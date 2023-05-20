@@ -10,10 +10,10 @@ namespace CluedIn.ExternalSearch.Providers.Bolagsverket
     {
         public const string ComponentName = "Bolagsverket";
         public const string ProviderName = "Bolagsverket";
-        public static readonly Guid ProviderId = Guid.Parse("C7DDBEA4-D5A2-4F25-B2A0-EBFD36D2E8D6");
+        public static readonly Guid ProviderId = Guid.Parse("6D8CD3DA-D447-4EDB-8944-0A6006DB3A28");
 
         public static string About { get; set; } = "Bolagsverket";
-        public static string Icon { get; set; } = "Resources.duckduckgo.svg";
+        public static string Icon { get; set; } = "Resources.bolag.png";
         public static string Domain { get; set; } = "N/A";
 
         public static AuthMethods AuthMethods { get; set; } = new AuthMethods { token = new List<Control>()};
