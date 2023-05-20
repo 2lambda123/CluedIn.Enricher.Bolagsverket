@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\ExternalSearch.Providers.Bolagsverket.csproj" />
+    <ProjectReference Include="..\..\..\src\ExternalSearch.Providers.Bolagsverket\ExternalSearch.Providers.Bolagsverket.csproj" />
+  </ItemGroup>
+</Project>
